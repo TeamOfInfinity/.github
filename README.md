@@ -1,12 +1,12 @@
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Team Of Infinity&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=TeamOfInfinity&font=Fira%20Code&center=true&width=380&height=50">
 
 </p>
 
 <a href="#"><img width="100%" height="auto" src="https://telegra.ph/file/b860c8a11dbbce326d481.mp4" height="175px"/></a>
 
-<h1 align="center">Hi <vid src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , This Is Team of Infinity</h1>
+<h1 align="center">Hi <VID src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , This Is Team of Infinity</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri lanka.</h3>
 
 
